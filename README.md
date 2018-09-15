@@ -2,9 +2,10 @@
 
 Project portfolio implementation using spring-boot hibernate CRUD
 
-Please refer the document "Project PortFolio.docx" for the below implemenation details
+Please refer the document "Project PortFolio.docx" for the below details
 
--Project Structure
--Code Coverage
--Test Scenarios
--Data saved as part of transactions
+*  Project Structure
+*  Code Coverage
+*  Test Scenarios
+*  Data saved as part of transactions
+ 
